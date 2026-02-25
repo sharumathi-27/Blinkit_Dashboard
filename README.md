@@ -1,6 +1,7 @@
 # Blinkit Dashboard Using Power BI
 
-"C:\Users\SHARU MATHI\OneDrive\Pictures\Screenshots\Screenshot 2026-02-24 103041.png"
+<img width="775" height="489" alt="Screenshot 2026-02-24 103041" src="https://github.com/user-attachments/assets/142f01c4-274d-417b-8c92-702a0109a03f" />
+026-02-24 103041.png"
 
 ## 📌 Project Overview
 This project focuses on analyzing Blinkit sales data using Power BI to uncover key business insights and visualize performance across different outlets and product categories.
