@@ -7,7 +7,7 @@ This project focuses on analyzing Blinkit sales data using Power BI to uncover k
 
 The dashboard helps understand sales trends, customer preferences, and outlet performance in an interactive and user-friendly way.
 
----
+--- 
 
 ## 🎯 Objectives
 - Analyze total and average sales
