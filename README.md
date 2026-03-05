@@ -40,4 +40,4 @@ The dashboard helps understand sales trends, customer preferences, and outlet pe
 - Designing interactive dashboards  
 - Extracting business insights from raw data
 
-  "C:\Users\SHARU MATHI\OneDrive\Pictures\Screenshots\Screenshot 2025-06-11 111458.png"
+<img width="1358" height="764" alt="Screenshot 2025-06-11 111458" src="https://github.com/user-attachments/assets/c76b382f-767e-4f1c-8b18-f9f5c46ae0e3" />
